@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: 山元省治
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -18,14 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 自我介紹
 
-- 我從那裡來？ 
+- 我來自日本滋賀縣。滋賀有日本最大的河湖，自然豐富的地方。 
 
 NULL
 
-- 我決定來這裡的動機？
+- 我為了學習高度心理學來成功大學的心理學科。通過心理學，我想幫助別人解決心理方面的問題。
 
 NULL
 
-- 我對這門課的期望？
+- 我想學習能實踐使用的心理學的課程。
 
 NULL
